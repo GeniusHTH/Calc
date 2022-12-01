@@ -33,6 +33,7 @@ info = '''
 '''
 
 print(message)
+print('You can type Help for tips or Stop to exist The program')
 
 while True:  
   selecting_operator = input('Select Operator: ')
